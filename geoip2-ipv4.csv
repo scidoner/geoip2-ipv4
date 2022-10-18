@@ -1,0 +1,1001 @@
+network,geoname_id,continent_code,continent_name,country_iso_code,country_name,is_anonymous_proxy,is_satellite_provider
+1.0.0.0/24,2077456,OC,Oceania,AU,Australia,0,0
+1.0.4.0/22,2077456,OC,Oceania,AU,Australia,0,0
+1.1.1.0/32,2077456,OC,Oceania,AU,Australia,0,0
+1.1.1.1/32,2077456,OC,Oceania,AU,Australia,0,0
+1.1.1.2/31,2077456,OC,Oceania,AU,Australia,0,0
+1.1.1.4/30,2077456,OC,Oceania,AU,Australia,0,0
+1.1.1.8/29,2077456,OC,Oceania,AU,Australia,0,0
+1.1.1.16/28,2077456,OC,Oceania,AU,Australia,0,0
+1.1.1.32/27,2077456,OC,Oceania,AU,Australia,0,0
+1.1.1.64/26,2077456,OC,Oceania,AU,Australia,0,0
+1.1.1.128/25,2077456,OC,Oceania,AU,Australia,0,0
+1.2.3.0/24,2077456,OC,Oceania,AU,Australia,0,0
+1.4.0.0/24,2077456,OC,Oceania,AU,Australia,0,0
+1.40.0.0/14,2077456,OC,Oceania,AU,Australia,0,0
+1.44.0.0/16,2077456,OC,Oceania,AU,Australia,0,0
+1.120.0.0/13,2077456,OC,Oceania,AU,Australia,0,0
+1.128.0.0/11,2077456,OC,Oceania,AU,Australia,0,0
+1.178.0.0/19,2077456,OC,Oceania,AU,Australia,0,0
+1.178.64.0/19,2077456,OC,Oceania,AU,Australia,0,0
+1.178.96.0/20,2077456,OC,Oceania,AU,Australia,0,0
+1.178.144.0/20,2077456,OC,Oceania,AU,Australia,0,0
+1.178.160.0/19,2077456,OC,Oceania,AU,Australia,0,0
+1.178.192.0/20,2077456,OC,Oceania,AU,Australia,0,0
+1.179.0.0/19,2077456,OC,Oceania,AU,Australia,0,0
+1.179.32.0/21,2077456,OC,Oceania,AU,Australia,0,0
+1.179.40.0/21,2077456,OC,Oceania,AU,Australia,0,0
+1.179.48.0/20,2077456,OC,Oceania,AU,Australia,0,0
+1.179.64.0/21,2077456,OC,Oceania,AU,Australia,0,0
+1.179.80.0/21,2077456,OC,Oceania,AU,Australia,0,0
+1.179.96.0/20,2077456,OC,Oceania,AU,Australia,0,0
+1.0.1.0/24,1814991,AS,Asia,CN,China,0,0
+1.0.2.0/23,1814991,AS,Asia,CN,China,0,0
+1.0.8.0/21,1814991,AS,Asia,CN,China,0,0
+1.0.32.0/19,1814991,AS,Asia,CN,China,0,0
+1.1.0.0/24,1814991,AS,Asia,CN,China,0,0
+1.1.2.0/23,1814991,AS,Asia,CN,China,0,0
+1.1.4.0/22,1814991,AS,Asia,CN,China,0,0
+1.1.8.0/21,1814991,AS,Asia,CN,China,0,0
+1.1.16.0/20,1814991,AS,Asia,CN,China,0,0
+1.1.32.0/19,1814991,AS,Asia,CN,China,0,0
+1.2.0.0/23,1814991,AS,Asia,CN,China,0,0
+1.2.2.0/24,1814991,AS,Asia,CN,China,0,0
+1.2.4.0/22,1814991,AS,Asia,CN,China,0,0
+1.2.8.0/24,1814991,AS,Asia,CN,China,0,0
+1.2.10.0/23,1814991,AS,Asia,CN,China,0,0
+1.2.12.0/22,1814991,AS,Asia,CN,China,0,0
+1.2.16.0/20,1814991,AS,Asia,CN,China,0,0
+1.2.32.0/19,1814991,AS,Asia,CN,China,0,0
+1.2.64.0/18,1814991,AS,Asia,CN,China,0,0
+1.3.0.0/16,1814991,AS,Asia,CN,China,0,0
+1.4.1.0/24,1814991,AS,Asia,CN,China,0,0
+1.4.2.0/23,1814991,AS,Asia,CN,China,0,0
+1.4.4.0/22,1814991,AS,Asia,CN,China,0,0
+1.4.8.0/24,1814991,AS,Asia,CN,China,0,0
+1.4.10.0/23,1814991,AS,Asia,CN,China,0,0
+1.4.12.0/22,1814991,AS,Asia,CN,China,0,0
+1.4.16.0/20,1814991,AS,Asia,CN,China,0,0
+1.4.32.0/19,1814991,AS,Asia,CN,China,0,0
+1.4.64.0/18,1814991,AS,Asia,CN,China,0,0
+1.8.0.0/16,1814991,AS,Asia,CN,China,0,0
+1.10.0.0/21,1814991,AS,Asia,CN,China,0,0
+1.10.8.0/23,1814991,AS,Asia,CN,China,0,0
+1.10.11.0/24,1814991,AS,Asia,CN,China,0,0
+1.10.12.0/22,1814991,AS,Asia,CN,China,0,0
+1.10.16.0/20,1814991,AS,Asia,CN,China,0,0
+1.10.32.0/19,1814991,AS,Asia,CN,China,0,0
+1.10.64.0/18,1814991,AS,Asia,CN,China,0,0
+1.12.0.0/14,1814991,AS,Asia,CN,China,0,0
+1.24.0.0/13,1814991,AS,Asia,CN,China,0,0
+1.34.0.0/32,1814991,AS,Asia,CN,China,0,0
+1.45.0.0/16,1814991,AS,Asia,CN,China,0,0
+1.46.60.1/32,1814991,AS,Asia,CN,China,0,0
+1.48.0.0/14,1814991,AS,Asia,CN,China,0,0
+1.56.0.0/13,1814991,AS,Asia,CN,China,0,0
+1.68.0.0/14,1814991,AS,Asia,CN,China,0,0
+1.80.0.0/12,1814991,AS,Asia,CN,China,0,0
+1.116.0.0/15,1814991,AS,Asia,CN,China,0,0
+1.118.0.0/19,1814991,AS,Asia,CN,China,0,0
+1.118.33.0/24,1814991,AS,Asia,CN,China,0,0
+1.118.34.0/23,1814991,AS,Asia,CN,China,0,0
+1.118.36.0/22,1814991,AS,Asia,CN,China,0,0
+1.118.40.0/21,1814991,AS,Asia,CN,China,0,0
+1.118.48.0/20,1814991,AS,Asia,CN,China,0,0
+1.118.64.0/18,1814991,AS,Asia,CN,China,0,0
+1.118.128.0/17,1814991,AS,Asia,CN,China,0,0
+1.119.0.0/16,1814991,AS,Asia,CN,China,0,0
+1.180.0.0/14,1814991,AS,Asia,CN,China,0,0
+1.184.0.0/15,1814991,AS,Asia,CN,China,0,0
+1.188.0.0/14,1814991,AS,Asia,CN,China,0,0
+1.192.0.0/13,1814991,AS,Asia,CN,China,0,0
+1.202.0.0/15,1814991,AS,Asia,CN,China,0,0
+1.204.0.0/14,1814991,AS,Asia,CN,China,0,0
+1.0.16.0/20,1861060,AS,Asia,JP,Japan,0,0
+1.0.64.0/18,1861060,AS,Asia,JP,Japan,0,0
+1.1.64.0/18,1861060,AS,Asia,JP,Japan,0,0
+1.5.0.0/16,1861060,AS,Asia,JP,Japan,0,0
+1.21.0.0/16,1861060,AS,Asia,JP,Japan,0,0
+1.32.226.57/32,1861060,AS,Asia,JP,Japan,0,0
+1.33.0.0/16,1861060,AS,Asia,JP,Japan,0,0
+1.66.0.0/15,1861060,AS,Asia,JP,Japan,0,0
+1.72.0.0/13,1861060,AS,Asia,JP,Japan,0,0
+1.112.0.0/14,1861060,AS,Asia,JP,Japan,0,0
+1.0.128.0/17,1605651,AS,Asia,TH,Thailand,0,0
+1.1.128.0/17,1605651,AS,Asia,TH,Thailand,0,0
+1.2.128.0/17,1605651,AS,Asia,TH,Thailand,0,0
+1.4.128.0/17,1605651,AS,Asia,TH,Thailand,0,0
+1.10.128.0/17,1605651,AS,Asia,TH,Thailand,0,0
+1.20.0.0/16,1605651,AS,Asia,TH,Thailand,0,0
+1.46.0.0/19,1605651,AS,Asia,TH,Thailand,0,0
+1.46.32.0/20,1605651,AS,Asia,TH,Thailand,0,0
+1.46.48.0/21,1605651,AS,Asia,TH,Thailand,0,0
+1.46.56.0/22,1605651,AS,Asia,TH,Thailand,0,0
+1.46.60.0/32,1605651,AS,Asia,TH,Thailand,0,0
+1.46.60.2/31,1605651,AS,Asia,TH,Thailand,0,0
+1.46.60.4/30,1605651,AS,Asia,TH,Thailand,0,0
+1.46.60.8/29,1605651,AS,Asia,TH,Thailand,0,0
+1.46.60.16/28,1605651,AS,Asia,TH,Thailand,0,0
+1.46.60.32/27,1605651,AS,Asia,TH,Thailand,0,0
+1.46.60.64/26,1605651,AS,Asia,TH,Thailand,0,0
+1.46.60.128/25,1605651,AS,Asia,TH,Thailand,0,0
+1.46.61.0/24,1605651,AS,Asia,TH,Thailand,0,0
+1.46.62.0/23,1605651,AS,Asia,TH,Thailand,0,0
+1.46.64.0/18,1605651,AS,Asia,TH,Thailand,0,0
+1.46.128.0/17,1605651,AS,Asia,TH,Thailand,0,0
+1.47.0.0/16,1605651,AS,Asia,TH,Thailand,0,0
+1.179.128.0/17,1605651,AS,Asia,TH,Thailand,0,0
+1.2.9.0/24,2017370,EU,Europe,RU,Russia,0,0
+1.4.9.0/24,2017370,EU,Europe,RU,Russia,0,0
+1.173.94.92/30,2017370,EU,Europe,RU,Russia,0,0
+2.16.10.196/30,2017370,EU,Europe,RU,Russia,0,0
+2.16.10.204/30,2017370,EU,Europe,RU,Russia,0,0
+2.16.10.212/30,2017370,EU,Europe,RU,Russia,0,0
+2.16.10.221/32,2017370,EU,Europe,RU,Russia,0,0
+2.16.10.222/31,2017370,EU,Europe,RU,Russia,0,0
+2.16.10.228/30,2017370,EU,Europe,RU,Russia,0,0
+1.6.0.0/15,1269750,AS,Asia,IN,India,0,0
+1.10.10.0/24,1269750,AS,Asia,IN,India,0,0
+1.22.0.0/15,1269750,AS,Asia,IN,India,0,0
+1.38.0.0/15,1269750,AS,Asia,IN,India,0,0
+1.186.0.0/15,1269750,AS,Asia,IN,India,0,0
+1.9.0.0/16,1733045,AS,Asia,MY,Malaysia,0,0
+1.32.0.0/17,1733045,AS,Asia,MY,Malaysia,0,0
+1.11.0.0/16,1835841,AS,Asia,KR,South Korea,0,0
+1.16.0.0/14,1835841,AS,Asia,KR,South Korea,0,0
+1.32.220.0/24,1835841,AS,Asia,KR,South Korea,0,0
+1.96.0.0/12,1835841,AS,Asia,KR,South Korea,0,0
+1.176.0.0/15,1835841,AS,Asia,KR,South Korea,0,0
+1.201.0.0/16,1835841,AS,Asia,KR,South Korea,0,0
+1.208.0.0/12,1835841,AS,Asia,KR,South Korea,0,0
+1.224.0.0/11,1835841,AS,Asia,KR,South Korea,0,0
+1.32.128.0/18,1880251,AS,Asia,SG,Singapore,0,0
+1.32.192.0/23,1880251,AS,Asia,SG,Singapore,0,0
+1.32.195.0/24,1880251,AS,Asia,SG,Singapore,0,0
+1.32.196.0/24,1880251,AS,Asia,SG,Singapore,0,0
+1.32.198.0/23,1880251,AS,Asia,SG,Singapore,0,0
+1.32.200.0/23,1880251,AS,Asia,SG,Singapore,0,0
+1.32.202.128/25,1880251,AS,Asia,SG,Singapore,0,0
+1.32.203.128/25,1880251,AS,Asia,SG,Singapore,0,0
+1.32.204.128/25,1880251,AS,Asia,SG,Singapore,0,0
+1.32.206.0/23,1880251,AS,Asia,SG,Singapore,0,0
+1.32.208.0/21,1880251,AS,Asia,SG,Singapore,0,0
+1.32.216.0/22,1880251,AS,Asia,SG,Singapore,0,0
+1.32.221.0/24,1880251,AS,Asia,SG,Singapore,0,0
+1.32.222.0/23,1880251,AS,Asia,SG,Singapore,0,0
+1.32.224.0/23,1880251,AS,Asia,SG,Singapore,0,0
+1.32.226.0/27,1880251,AS,Asia,SG,Singapore,0,0
+1.32.226.32/28,1880251,AS,Asia,SG,Singapore,0,0
+1.32.226.48/29,1880251,AS,Asia,SG,Singapore,0,0
+1.32.226.56/32,1880251,AS,Asia,SG,Singapore,0,0
+1.32.226.58/31,1880251,AS,Asia,SG,Singapore,0,0
+1.32.226.60/30,1880251,AS,Asia,SG,Singapore,0,0
+1.32.226.64/26,1880251,AS,Asia,SG,Singapore,0,0
+1.32.226.128/25,1880251,AS,Asia,SG,Singapore,0,0
+1.32.227.0/24,1880251,AS,Asia,SG,Singapore,0,0
+1.32.228.0/22,1880251,AS,Asia,SG,Singapore,0,0
+1.32.232.0/21,1880251,AS,Asia,SG,Singapore,0,0
+1.32.240.0/21,1880251,AS,Asia,SG,Singapore,0,0
+1.32.248.0/22,1880251,AS,Asia,SG,Singapore,0,0
+1.32.253.0/24,1880251,AS,Asia,SG,Singapore,0,0
+1.32.254.0/23,1880251,AS,Asia,SG,Singapore,0,0
+1.32.194.0/24,1668284,AS,Asia,TW,Taiwan,0,0
+1.32.197.0/24,1668284,AS,Asia,TW,Taiwan,0,0
+1.32.202.0/25,1668284,AS,Asia,TW,Taiwan,0,0
+1.32.203.0/25,1668284,AS,Asia,TW,Taiwan,0,0
+1.32.204.0/25,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.0.1/32,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.0.2/31,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.0.4/30,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.0.8/29,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.0.16/28,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.0.32/27,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.0.64/26,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.0.128/25,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.1.0/24,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.2.0/23,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.4.0/22,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.8.0/21,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.16.0/20,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.32.0/19,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.64.0/18,1668284,AS,Asia,TW,Taiwan,0,0
+1.34.128.0/17,1668284,AS,Asia,TW,Taiwan,0,0
+1.35.0.0/16,1668284,AS,Asia,TW,Taiwan,0,0
+1.160.0.0/13,1668284,AS,Asia,TW,Taiwan,0,0
+1.168.0.0/14,1668284,AS,Asia,TW,Taiwan,0,0
+1.172.0.0/16,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.0.0/18,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.64.0/20,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.80.0/21,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.88.0/22,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.92.0/23,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.94.0/26,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.94.64/28,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.94.80/29,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.94.88/30,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.94.96/27,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.94.128/25,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.95.0/24,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.96.0/19,1668284,AS,Asia,TW,Taiwan,0,0
+1.173.128.0/17,1668284,AS,Asia,TW,Taiwan,0,0
+1.174.0.0/15,1668284,AS,Asia,TW,Taiwan,0,0
+1.200.0.0/16,1668284,AS,Asia,TW,Taiwan,0,0
+1.52.0.0/14,1562822,AS,Asia,VN,Vietnam,0,0
+1.32.205.0/24,1819730,AS,Asia,HK,Hong Kong,0,0
+1.36.0.0/16,1819730,AS,Asia,HK,Hong Kong,0,0
+1.64.0.0/15,1819730,AS,Asia,HK,Hong Kong,0,0
+1.178.208.0/20,1819730,AS,Asia,HK,Hong Kong,0,0
+1.37.0.0/16,1694008,AS,Asia,PH,Philippines,0,0
+1.32.252.0/24,1831722,AS,Asia,KH,Cambodia,0,0
+1.178.224.0/19,2510769,EU,Europe,ES,Spain,0,0
+2.16.8.0/24,2510769,EU,Europe,ES,Spain,0,0
+1.118.32.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.1.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.3.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.4.0/22,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.10.0/25,2782113,EU,Europe,AT,Austria,0,0
+2.16.10.128/26,2782113,EU,Europe,AT,Austria,0,0
+2.16.10.192/30,2782113,EU,Europe,AT,Austria,0,0
+2.16.10.200/30,2782113,EU,Europe,AT,Austria,0,0
+2.16.10.208/30,2782113,EU,Europe,AT,Austria,0,0
+2.16.10.216/30,2782113,EU,Europe,AT,Austria,0,0
+2.16.10.220/32,2782113,EU,Europe,AT,Austria,0,0
+2.16.10.224/30,2782113,EU,Europe,AT,Austria,0,0
+2.16.9.0/24,2921044,EU,Europe,DE,Germany,0,0
+1.179.112.0/20,3017382,EU,Europe,FR,France,0,0
+2.0.0.0/12,3017382,EU,Europe,FR,France,0,0
+2.16.0.0/24,3017382,EU,Europe,FR,France,0,0
+2.16.2.0/24,3077311,EU,Europe,CZ,Czechia,0,0
+1.178.32.0/20,3469034,SA,South America,BR,Brazil,0,0
+1.178.48.0/20,3865483,SA,South America,AR,Argentina,0,0
+1.178.112.0/20,6254930,AS,Asia,PS,Palestine,0,0
+1.178.128.0/20,6254930,AS,Asia,PS,Palestine,0,0
+1.179.72.0/21,6254930,AS,Asia,PS,Palestine,0,0
+1.179.88.0/21,6254930,AS,Asia,PS,Palestine,0,0
+2.16.10.232/30,2782113,EU,Europe,AT,Austria,0,0
+2.16.10.236/30,2017370,EU,Europe,RU,Russia,0,0
+2.16.10.240/30,2782113,EU,Europe,AT,Austria,0,0
+2.16.10.244/31,2017370,EU,Europe,RU,Russia,0,0
+2.16.10.246/31,2782113,EU,Europe,AT,Austria,0,0
+2.16.10.248/29,2782113,EU,Europe,AT,Austria,0,0
+2.16.11.0/24,3017382,EU,Europe,FR,France,0,0
+2.16.12.0/23,2658434,EU,Europe,CH,Switzerland,0,0
+2.16.14.0/24,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.15.0/24,3469034,SA,South America,BR,Brazil,0,0
+2.16.16.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.17.0/24,3175395,EU,Europe,IT,Italy,0,0
+2.16.18.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.19.0/24,390903,EU,Europe,GR,Greece,0,0
+2.16.20.0/23,2017370,EU,Europe,RU,Russia,0,0
+2.16.22.0/24,3175395,EU,Europe,IT,Italy,0,0
+2.16.23.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.24.0/22,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.28.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.29.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.16.30.0/23,2921044,EU,Europe,DE,Germany,0,0
+2.16.32.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.16.33.0/26,2921044,EU,Europe,DE,Germany,0,0
+2.16.33.64/29,2921044,EU,Europe,DE,Germany,0,0
+2.16.33.72/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.33.76/32,6252001,NA,North America,US,United States,0,0
+2.16.33.77/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.33.78/31,2921044,EU,Europe,DE,Germany,0,0
+2.16.33.80/28,2921044,EU,Europe,DE,Germany,0,0
+2.16.33.96/27,2921044,EU,Europe,DE,Germany,0,0
+2.16.33.128/25,2921044,EU,Europe,DE,Germany,0,0
+2.16.34.0/24,3017382,EU,Europe,FR,France,0,0
+2.16.35.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.36.0/24,2077456,OC,Oceania,AU,Australia,0,0
+2.16.37.0/24,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.38.0/23,2510769,EU,Europe,ES,Spain,0,0
+2.16.40.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.41.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.16.42.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.44.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.46.0/23,2921044,EU,Europe,DE,Germany,0,0
+2.16.48.0/24,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.49.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.50.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.52.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.53.0/24,2017370,EU,Europe,RU,Russia,0,0
+2.16.54.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.56.0/22,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.60.0/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.4/30,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.8/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.12/30,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.16/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.20/30,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.24/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.28/31,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.30/32,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.31/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.32/27,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.64/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.68/30,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.72/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.76/30,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.80/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.84/30,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.88/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.92/30,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.96/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.100/30,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.104/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.108/30,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.112/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.116/31,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.118/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.119/32,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.120/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.124/32,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.125/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.126/32,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.127/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.128/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.132/30,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.136/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.140/30,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.144/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.148/30,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.152/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.156/30,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.160/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.164/32,3077311,EU,Europe,CZ,Czechia,0,0
+2.16.60.165/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.166/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.168/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.176/28,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.60.192/26,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.0/27,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.32/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.40/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.44/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.45/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.61.46/31,2921044,EU,Europe,DE,Germany,0,0
+2.16.61.48/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.52/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.61.56/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.60/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.61.64/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.68/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.61.72/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.76/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.61.80/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.84/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.61.88/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.92/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.61.96/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.100/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.61.104/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.108/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.61.112/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.116/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.61.117/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.118/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.120/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.61.128/25,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.62.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.16.63.0/24,2623032,EU,Europe,DK,Denmark,0,0
+2.16.64.0/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.64.4/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.64.8/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.64.12/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.64.16/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.64.20/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.64.24/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.64.28/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.64.32/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.64.36/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.64.40/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.64.44/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.64.48/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.64.52/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.64.56/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.64.60/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.64.64/26,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.64.128/25,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.65.0/24,2264397,EU,Europe,PT,Portugal,0,0
+2.16.66.0/23,2661886,EU,Europe,SE,Sweden,0,0
+2.16.68.0/23,2661886,EU,Europe,SE,Sweden,0,0
+2.16.70.0/23,3175395,EU,Europe,IT,Italy,0,0
+2.16.72.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.74.0/23,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.76.0/24,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.77.0/24,2300660,AF,Africa,GH,Ghana,0,0
+2.16.78.0/23,2510769,EU,Europe,ES,Spain,0,0
+2.16.80.0/23,3175395,EU,Europe,IT,Italy,0,0
+2.16.82.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.84.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.86.0/23,3175395,EU,Europe,IT,Italy,0,0
+2.16.88.0/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.4/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.8/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.12/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.16/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.20/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.24/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.28/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.32/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.36/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.40/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.44/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.48/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.52/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.56/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.60/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.64/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.68/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.72/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.76/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.80/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.84/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.88/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.92/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.96/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.100/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.104/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.108/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.112/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.116/30,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.120/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.124/31,298795,AS,Asia,TR,Turkey,0,0
+2.16.88.126/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.88.128/25,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.89.0/24,3017382,EU,Europe,FR,France,0,0
+2.16.90.0/23,2921044,EU,Europe,DE,Germany,0,0
+2.16.92.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.93.0/24,3017382,EU,Europe,FR,France,0,0
+2.16.94.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.96.0/22,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.100.0/23,2921044,EU,Europe,DE,Germany,0,0
+2.16.102.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.103.0/24,2017370,EU,Europe,RU,Russia,0,0
+2.16.104.0/22,2921044,EU,Europe,DE,Germany,0,0
+2.16.108.0/24,2510769,EU,Europe,ES,Spain,0,0
+2.16.109.0/24,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.110.0/23,2921044,EU,Europe,DE,Germany,0,0
+2.16.112.0/23,3017382,EU,Europe,FR,France,0,0
+2.16.114.0/23,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.116.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.117.0/25,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.117.128/27,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.117.160/28,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.117.176/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.117.180/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.117.181/32,3017382,EU,Europe,FR,France,0,0
+2.16.117.182/31,3017382,EU,Europe,FR,France,0,0
+2.16.117.184/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.117.185/32,3017382,EU,Europe,FR,France,0,0
+2.16.117.186/31,3017382,EU,Europe,FR,France,0,0
+2.16.117.188/30,3017382,EU,Europe,FR,France,0,0
+2.16.117.192/28,3017382,EU,Europe,FR,France,0,0
+2.16.117.208/29,3017382,EU,Europe,FR,France,0,0
+2.16.117.216/31,3017382,EU,Europe,FR,France,0,0
+2.16.117.218/32,3017382,EU,Europe,FR,France,0,0
+2.16.117.219/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.117.220/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.117.224/27,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.118.0/23,3017382,EU,Europe,FR,France,0,0
+2.16.120.0/24,3469034,SA,South America,BR,Brazil,0,0
+2.16.121.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.16.122.0/23,2921044,EU,Europe,DE,Germany,0,0
+2.16.124.0/23,3017382,EU,Europe,FR,France,0,0
+2.16.126.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.0/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.4/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.8/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.12/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.16/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.20/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.24/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.28/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.32/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.36/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.40/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.44/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.48/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.52/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.56/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.60/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.64/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.68/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.72/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.76/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.80/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.84/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.88/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.92/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.96/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.100/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.104/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.108/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.112/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.116/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.120/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.124/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.128/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.132/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.136/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.140/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.144/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.148/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.152/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.156/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.160/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.164/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.168/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.172/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.176/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.180/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.184/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.188/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.192/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.196/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.200/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.204/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.208/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.212/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.216/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.220/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.224/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.228/31,2921044,EU,Europe,DE,Germany,0,0
+2.16.128.230/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.232/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.128.240/28,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.129.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.130.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.132.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.134.0/24,2233387,AF,Africa,CM,Cameroon,0,0
+2.16.135.0/24,3175395,EU,Europe,IT,Italy,0,0
+2.16.136.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.137.0/24,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.138.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.140.0/23,953987,AF,Africa,ZA,South Africa,0,0
+2.16.142.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.144.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.146.0/23,3175395,EU,Europe,IT,Italy,0,0
+2.16.148.0/23,3017382,EU,Europe,FR,France,0,0
+2.16.150.0/23,298795,AS,Asia,TR,Turkey,0,0
+2.16.152.0/24,3017382,EU,Europe,FR,France,0,0
+2.16.153.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.154.0/24,2017370,EU,Europe,RU,Russia,0,0
+2.16.155.0/24,2661886,EU,Europe,SE,Sweden,0,0
+2.16.156.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.158.0/24,290557,AS,Asia,AE,United Arab Emirates,0,0
+2.16.159.0/24,2017370,EU,Europe,RU,Russia,0,0
+2.16.160.0/23,2017370,EU,Europe,RU,Russia,0,0
+2.16.162.0/27,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.32/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.40/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.44/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.48/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.52/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.56/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.60/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.64/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.68/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.72/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.76/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.80/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.84/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.88/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.92/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.96/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.100/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.104/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.108/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.112/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.116/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.120/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.124/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.128/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.132/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.136/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.140/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.144/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.148/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.152/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.156/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.160/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.164/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.162.168/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.176/28,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.162.192/26,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.163.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.164.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.165.0/24,3017382,EU,Europe,FR,France,0,0
+2.16.166.0/27,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.166.32/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.166.40/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.166.44/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.166.48/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.166.52/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.166.56/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.166.60/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.166.64/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.166.68/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.166.72/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.166.76/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.166.80/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.166.84/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.166.88/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.166.92/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.166.96/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.166.100/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.166.104/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.166.112/28,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.166.128/25,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.167.0/24,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.168.0/24,2017370,EU,Europe,RU,Russia,0,0
+2.16.169.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.170.0/24,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.171.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.172.0/24,798544,EU,Europe,PL,Poland,0,0
+2.16.173.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.174.0/23,2661886,EU,Europe,SE,Sweden,0,0
+2.16.176.0/22,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.180.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.181.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.16.182.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.16.183.0/24,3017382,EU,Europe,FR,France,0,0
+2.16.184.0/22,2921044,EU,Europe,DE,Germany,0,0
+2.16.188.0/23,3469034,SA,South America,BR,Brazil,0,0
+2.16.190.0/23,953987,AF,Africa,ZA,South Africa,0,0
+2.16.192.0/22,2921044,EU,Europe,DE,Germany,0,0
+2.16.196.0/23,3469034,SA,South America,BR,Brazil,0,0
+2.16.198.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.200.0/23,3469034,SA,South America,BR,Brazil,0,0
+2.16.202.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.16.203.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.204.0/22,2921044,EU,Europe,DE,Germany,0,0
+2.16.208.0/22,3017382,EU,Europe,FR,France,0,0
+2.16.212.0/22,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.0/26,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.64/28,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.80/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.84/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.85/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.86/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.87/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.88/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.92/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.94/31,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.96/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.100/30,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.104/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.108/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.109/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.110/31,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.112/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.113/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.114/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.116/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.117/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.118/31,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.120/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.121/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.122/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.124/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.125/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.126/31,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.128/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.129/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.130/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.132/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.133/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.134/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.135/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.136/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.144/28,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.160/32,2921044,EU,Europe,DE,Germany,0,0
+2.16.216.161/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.162/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.164/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.168/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.176/28,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.216.192/26,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.217.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.16.218.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.16.219.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.220.0/22,390903,EU,Europe,GR,Greece,0,0
+2.16.224.0/21,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.232.0/22,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.236.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.237.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.16.238.0/23,2921044,EU,Europe,DE,Germany,0,0
+2.16.240.0/23,2921044,EU,Europe,DE,Germany,0,0
+2.16.242.0/24,3017382,EU,Europe,FR,France,0,0
+2.16.243.0/24,2635167,EU,Europe,GB,United Kingdom,0,0
+2.16.244.0/24,953987,AF,Africa,ZA,South Africa,0,0
+2.16.245.0/24,3017382,EU,Europe,FR,France,0,0
+2.16.246.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.16.248.0/21,3469034,SA,South America,BR,Brazil,0,0
+2.17.0.0/22,2623032,EU,Europe,DK,Denmark,0,0
+2.17.4.0/22,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.8.0/22,2658434,EU,Europe,CH,Switzerland,0,0
+2.17.12.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.14.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.15.0/24,3017382,EU,Europe,FR,France,0,0
+2.17.16.0/22,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.20.0/22,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.24.0/22,248816,AS,Asia,JO,Jordan,0,0
+2.17.28.0/22,1819730,AS,Asia,HK,Hong Kong,0,0
+2.17.32.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.34.0/24,3017382,EU,Europe,FR,France,0,0
+2.17.35.0/24,2510769,EU,Europe,ES,Spain,0,0
+2.17.36.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.37.0/24,2510769,EU,Europe,ES,Spain,0,0
+2.17.38.0/24,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.39.0/24,2510769,EU,Europe,ES,Spain,0,0
+2.17.40.0/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.8/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.12/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.14/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.16/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.18/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.20/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.22/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.24/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.26/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.28/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.30/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.32/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.34/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.36/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.38/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.40/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.42/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.44/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.46/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.48/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.50/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.52/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.54/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.56/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.58/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.60/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.62/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.64/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.66/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.68/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.70/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.72/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.74/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.76/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.78/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.80/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.82/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.84/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.86/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.88/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.90/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.92/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.94/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.96/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.98/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.100/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.102/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.104/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.106/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.108/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.110/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.112/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.114/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.116/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.118/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.120/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.122/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.124/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.126/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.128/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.130/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.132/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.134/31,3017382,EU,Europe,FR,France,0,0
+2.17.40.136/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.137/32,3017382,EU,Europe,FR,France,0,0
+2.17.40.138/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.140/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.144/28,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.160/27,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.40.192/26,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.41.0/24,2510769,EU,Europe,ES,Spain,0,0
+2.17.42.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.43.0/24,3017382,EU,Europe,FR,France,0,0
+2.17.44.0/24,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.45.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.17.46.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.17.47.0/24,2510769,EU,Europe,ES,Spain,0,0
+2.17.48.0/20,1819730,AS,Asia,HK,Hong Kong,0,0
+2.17.64.0/19,2921044,EU,Europe,DE,Germany,0,0
+2.17.96.0/22,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.100.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.17.101.0/24,3175395,EU,Europe,IT,Italy,0,0
+2.17.102.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.104.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.106.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.107.0/24,2802361,EU,Europe,BE,Belgium,0,0
+2.17.108.0/22,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.112.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.113.0/24,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.114.0/24,3017382,EU,Europe,FR,France,0,0
+2.17.115.0/24,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.116.0/22,798549,EU,Europe,RO,Romania,0,0
+2.17.120.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.122.0/25,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.122.128/26,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.122.192/28,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.122.208/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.122.216/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.122.220/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.122.221/32,2921044,EU,Europe,DE,Germany,0,0
+2.17.122.222/31,2921044,EU,Europe,DE,Germany,0,0
+2.17.122.224/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.122.228/30,2921044,EU,Europe,DE,Germany,0,0
+2.17.122.232/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.122.236/30,2921044,EU,Europe,DE,Germany,0,0
+2.17.122.240/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.122.244/30,2921044,EU,Europe,DE,Germany,0,0
+2.17.122.248/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.123.0/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.123.4/30,2921044,EU,Europe,DE,Germany,0,0
+2.17.123.8/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.123.12/30,2921044,EU,Europe,DE,Germany,0,0
+2.17.123.16/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.123.20/30,2921044,EU,Europe,DE,Germany,0,0
+2.17.123.24/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.123.28/31,2921044,EU,Europe,DE,Germany,0,0
+2.17.123.30/32,2921044,EU,Europe,DE,Germany,0,0
+2.17.123.31/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.123.32/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.123.36/31,2921044,EU,Europe,DE,Germany,0,0
+2.17.123.38/32,2921044,EU,Europe,DE,Germany,0,0
+2.17.123.39/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.123.40/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.123.44/31,2921044,EU,Europe,DE,Germany,0,0
+2.17.123.46/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.123.48/28,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.123.64/26,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.123.128/25,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.124.0/22,3175395,EU,Europe,IT,Italy,0,0
+2.17.128.0/21,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.136.0/22,298795,AS,Asia,TR,Turkey,0,0
+2.17.140.0/22,3175395,EU,Europe,IT,Italy,0,0
+2.17.144.0/23,2017370,EU,Europe,RU,Russia,0,0
+2.17.146.0/24,2017370,EU,Europe,RU,Russia,0,0
+2.17.147.0/24,3077311,EU,Europe,CZ,Czechia,0,0
+2.17.148.0/22,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.152.0/22,2510769,EU,Europe,ES,Spain,0,0
+2.17.156.0/22,798544,EU,Europe,PL,Poland,0,0
+2.17.160.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.161.0/24,192950,AF,Africa,KE,Kenya,0,0
+2.17.162.0/23,3469034,SA,South America,BR,Brazil,0,0
+2.17.164.0/22,3469034,SA,South America,BR,Brazil,0,0
+2.17.168.0/22,192950,AF,Africa,KE,Kenya,0,0
+2.17.172.0/22,2963597,EU,Europe,IE,Ireland,0,0
+2.17.176.0/20,2921044,EU,Europe,DE,Germany,0,0
+2.17.192.0/22,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.196.0/22,2802361,EU,Europe,BE,Belgium,0,0
+2.17.200.0/24,2921044,EU,Europe,DE,Germany,0,0
+2.17.201.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.202.0/23,3865483,SA,South America,AR,Argentina,0,0
+2.17.204.0/22,953987,AF,Africa,ZA,South Africa,0,0
+2.17.208.0/26,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.64/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.72/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.76/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.80/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.84/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.88/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.92/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.96/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.100/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.104/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.108/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.112/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.116/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.120/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.124/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.128/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.132/31,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.134/32,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.135/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.136/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.140/31,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.142/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.143/32,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.144/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.148/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.152/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.156/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.157/32,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.158/32,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.159/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.160/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.164/31,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.166/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.167/32,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.168/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.172/31,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.174/32,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.175/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.176/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.180/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.184/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.188/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.192/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.196/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.200/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.204/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.208/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.212/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.216/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.220/32,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.208.221/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.222/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.208.224/27,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.209.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.0/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.4/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.8/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.12/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.16/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.20/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.24/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.28/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.32/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.36/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.40/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.44/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.48/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.52/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.56/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.60/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.64/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.68/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.72/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.76/32,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.77/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.78/31,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.80/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.84/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.88/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.92/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.96/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.100/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.104/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.108/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.112/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.116/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.120/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.124/30,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.128/30,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.132/31,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.134/32,2635167,EU,Europe,GB,United Kingdom,0,0
+2.17.210.135/32,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.136/29,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.144/28,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.160/27,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.210.192/26,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.211.0/24,2510769,EU,Europe,ES,Spain,0,0
+2.17.212.0/22,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.216.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.217.0/24,2510769,EU,Europe,ES,Spain,0,0
+2.17.218.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.220.0/22,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.224.0/20,298795,AS,Asia,TR,Turkey,0,0
+2.17.240.0/22,798544,EU,Europe,PL,Poland,0,0
+2.17.244.0/22,2782113,EU,Europe,AT,Austria,0,0
+2.17.248.0/24,226074,AF,Africa,UG,Uganda,0,0
+2.17.249.0/24,174982,AS,Asia,AM,Armenia,0,0
+2.17.250.0/24,149590,AF,Africa,TZ,Tanzania,0,0
+2.17.251.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.17.252.0/23,298795,AS,Asia,TR,Turkey,0,0
+2.17.254.0/24,298795,AS,Asia,TR,Turkey,0,0
+2.17.255.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.18.0.0/22,3175395,EU,Europe,IT,Italy,0,0
+2.18.4.0/22,298795,AS,Asia,TR,Turkey,0,0
+2.18.8.0/23,2750405,EU,Europe,NL,Netherlands,0,0
+2.18.10.0/24,2750405,EU,Europe,NL,Netherlands,0,0
+2.18.11.0/24,433561,AF,Africa,BI,Burundi,0,0
+2.18.12.0/22,798544,EU,Europe,PL,Poland,0,0
